@@ -2,88 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c5f325-5d4c-4188-97df-cafda433d98f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/footer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/header.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/font-awesome/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/absolute-logo.jpg" afterPath="$PROJECT_DIR$/img/absolute-logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/afn-logo.jpg" afterPath="$PROJECT_DIR$/img/afn-logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/afn-logo.png" afterPath="$PROJECT_DIR$/img/afn-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/ahmc-logo.png" afterPath="$PROJECT_DIR$/img/ahmc-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/eagle-logo.jpg" afterPath="$PROJECT_DIR$/img/eagle-logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/eagle-logo.png" afterPath="$PROJECT_DIR$/img/eagle-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/equity-prime-logo.png" afterPath="$PROJECT_DIR$/img/equity-prime-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/equityhomes-logo.png" afterPath="$PROJECT_DIR$/img/equityhomes-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/equityprime-logo.jpg" afterPath="$PROJECT_DIR$/img/equityprime-logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/fff-logo.jpg" afterPath="$PROJECT_DIR$/img/fff-logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/fff-logo.png" afterPath="$PROJECT_DIR$/img/fff-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/greentree-logo.jpg" afterPath="$PROJECT_DIR$/img/greentree-logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/greentree-logo.png" afterPath="$PROJECT_DIR$/img/greentree-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/homepoint-logo.jpg" afterPath="$PROJECT_DIR$/img/homepoint-logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logos.psd" afterPath="$PROJECT_DIR$/img/logos.psd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/ndx-logo.jpg" afterPath="$PROJECT_DIR$/img/ndx-logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/new_year_background.png" afterPath="$PROJECT_DIR$/img/new_year_background.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/nwma-logo.png" afterPath="$PROJECT_DIR$/img/nwma-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile-photo.jpg" afterPath="$PROJECT_DIR$/img/profile-photo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/uamc-logo.png" afterPath="$PROJECT_DIR$/img/uamc-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/va-resume-2016-1.pdf" afterPath="$PROJECT_DIR$/img/va-resume-2016-1.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/font-awesome/HELP-US-OUT.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/font-awesome/scss/_animated.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/font-awesome/scss/_core.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/font-awesome/scss/_fixed-width.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/font-awesome/scss/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/font-awesome/scss/_larger.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/font-awesome/scss/_list.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/font-awesome/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/font-awesome/scss/_path.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/font-awesome/scss/_screen-reader.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/font-awesome/scss/_stacked.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/font-awesome/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/font-awesome/less/animated.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/font-awesome/less/bordered-pulled.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/font-awesome/less/core.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/font-awesome/less/fixed-width.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/css/font-awesome-modified.min.css" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome-modified.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/font-awesome/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/font-awesome/less/font-awesome.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/font-awesome/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/github.iml" afterPath="$PROJECT_DIR$/.idea/github.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/font-awesome/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-with-collapse-nav.php" afterPath="$PROJECT_DIR$/index-with-collapse-nav.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery-1.11.3.min.js" afterPath="$PROJECT_DIR$/js/jquery-1.11.3.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.carouFredSel-6.2.1.js" afterPath="$PROJECT_DIR$/js/jquery.carouFredSel-6.2.1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.touchSwipe.min.js" afterPath="$PROJECT_DIR$/js/jquery.touchSwipe.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/font-awesome/less/larger.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/font-awesome/less/list.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/font-awesome/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/more.php" afterPath="$PROJECT_DIR$/more.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/font-awesome/less/path.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/font-awesome/less/rotated-flipped.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/less/screen-reader.less" afterPath="$PROJECT_DIR$/font-awesome/less/screen-reader.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/send-mail.php" afterPath="$PROJECT_DIR$/send-mail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/font-awesome/less/stacked.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/font-awesome/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="github.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -108,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.96231157">
-              <caret line="247" column="7" selection-start-line="247" selection-start-column="7" selection-end-line="247" selection-end-column="7" />
+            <state vertical-scroll-proportion="3.7311559">
+              <caret line="243" column="32" selection-start-line="243" selection-start-column="32" selection-end-line="243" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -259,9 +178,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="157" y="125" width="1618" height="923" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -328,8 +247,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.96231157">
-          <caret line="247" column="7" selection-start-line="247" selection-start-column="7" selection-end-line="247" selection-end-column="7" />
+        <state vertical-scroll-proportion="3.7311559">
+          <caret line="243" column="32" selection-start-line="243" selection-start-column="32" selection-end-line="243" selection-end-column="32" />
           <folding />
         </state>
       </provider>
