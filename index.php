@@ -25,7 +25,7 @@
 <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 <![endif]-->
 
-<div id="page-header"></div>
+<header id="page-header"></header>
 
 <div class="container">
     <div class="row">
@@ -240,7 +240,9 @@
     </div>
 </div>
 
-<?php include('includes/footer.php'); ?>
+<footer id="page-footer">
+    <p>&copy; Vince Alvare, 2016</p>
+</footer>
 
 </body>
 </html>
